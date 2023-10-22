@@ -27,7 +27,7 @@ console.log(arr)                       [1,"Hello",3,{},"hi",[]]
 console.log(arr[6])                     we
 ```
 # Methods of Array;
->>>>>![](./images.jpg)
+![](./images.jpg)
 ## 1)push() : - az okhiri arrary dobavit mekna The push() method adds one or more elements to the end of an array and returns the new length of the array. arrayi glavnira alish mekna
 ```
     /////  js                                output
@@ -108,7 +108,7 @@ console.log(arr);                [1,"wow",{},"hi",3]
 console.log(arr2);               ["Hello",3]
 ```
 ># Array Method Callbacks;
->>>>>![](./images%20(1).jpg)
+![](./images%20(1).jpg)
 # What is callback method :
 >## ##calback method is amethod that hav callback in its parametr and its callback has function
 ## 1)forEach(() => {}) : - forEach method baroi nishon dodani element io ind io array dar parametrash callback va callback boshad 3 chiz element, index, array kabul mekunad
@@ -189,7 +189,7 @@ console.log(res);
     [2,4,8,9,10]
 ```
 ># Array mekhanizm:
->>>>>![](./%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg)
+![](./%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg)
 ## 1)Destructuring : - az array eementhoro hamchun variable megirad;
 ```
 //js                                     output:
